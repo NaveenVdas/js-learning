@@ -19,3 +19,13 @@ let boolIsLoggedIn = Boolean(isLoggedIn)
 // "" => false
 // "Naveen" => true
 // 0 => false
+
+let someNumber = 33
+
+let stringNumber = String(someNumber)
+
+console.log(stringNumber)
+console.log(typeof stringNumber)
+
+// When converting to string
+// 33 => "33"
