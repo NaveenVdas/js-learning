@@ -24,8 +24,18 @@ let someNumber = 33
 
 let stringNumber = String(someNumber)
 
-console.log(stringNumber)
-console.log(typeof stringNumber)
 
 // When converting to string
 // 33 => "33"
+
+
+
+// ****************************** Operations *****************************
+
+let value = 3
+
+let negValue = -value
+
+// console.log(negValue)
+
+console.log(1+2+"2"+3+"4");
